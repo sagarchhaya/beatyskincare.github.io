@@ -1703,10 +1703,10 @@ p>.txt-black{
      .content-box {
          width: 100%;
     }
-     .content-wrapper {
+/*      .content-wrapper {
          top: 65px;
          min-height:100%;
-    }
+    } */
      .tab-pane{
          padding:2.0em;
     }
